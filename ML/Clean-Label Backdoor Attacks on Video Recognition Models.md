@@ -1,5 +1,10 @@
 # Clean-Label Backdoor Attacks on Video Recognition Models
 
+|tag|
+|------|
+|ML|
+|Vision|
+|Attack|
 
 ## 16 Jun 2020
 
