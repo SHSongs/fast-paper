@@ -4,7 +4,7 @@
 
 |tag|
 |------|
-|CS|
+|Computer|
 |ML|
 |NLP|
 
