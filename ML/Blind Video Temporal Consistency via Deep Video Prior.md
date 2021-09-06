@@ -47,3 +47,10 @@ paper를 다 읽으면 해결될 것
 - image operater f는 어떻게 구성되있는지
 - g^는 어떤 architecture를 사용했는지
 - 성능 계산법  
+
+*****
+
+사람이 어떻게 흑백사진을 복원할까 생각
+1. 많은 data로부터 object 대한 색을 학습함
+2. 흑백으로 된 object를 감지하고 추론
+3. object를 자신이 지금까지 본 일반화된 object와 비슷하게 채색한다
