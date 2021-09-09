@@ -1,5 +1,11 @@
 # Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs
 
+|tag|
+|------|
+|ML|
+|Vision|
+|Attack|
+
 ## 15 May 2020
 
 [paper](https://arxiv.org/abs/1906.10842)   
